@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Francesco%20Corda/Documents/GitHub/project-mlops/mlruns/565528449537806433/f89aa91f72854a21a705b3bf30df6a12/artifacts
+end_time: 1718810508181
+entry_point_name: ''
+experiment_id: '565528449537806433'
+lifecycle_stage: active
+run_id: f89aa91f72854a21a705b3bf30df6a12
+run_name: initial_run
+run_uuid: f89aa91f72854a21a705b3bf30df6a12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718810496898
+status: 3
+tags: []
+user_id: Francesco Corda

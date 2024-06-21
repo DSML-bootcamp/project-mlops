@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Francesco%20Corda/Documents/GitHub/project-mlops/mlruns/0/b40b8bb13fe4434581261ff824580707/artifacts
+end_time: 1718811409537
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b40b8bb13fe4434581261ff824580707
+run_name: nimble-snake-607
+run_uuid: b40b8bb13fe4434581261ff824580707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718811403365
+status: 3
+tags: []
+user_id: Francesco Corda

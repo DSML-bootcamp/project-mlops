@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Francesco%20Corda/Documents/GitHub/project-mlops/mlruns/842042001289164212/f52aabd499ff402484a6d3c543d977fb/artifacts
+end_time: 1718870822584
+entry_point_name: ''
+experiment_id: '842042001289164212'
+lifecycle_stage: active
+run_id: f52aabd499ff402484a6d3c543d977fb
+run_name: burly-asp-555
+run_uuid: f52aabd499ff402484a6d3c543d977fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718870816700
+status: 3
+tags: []
+user_id: Francesco Corda

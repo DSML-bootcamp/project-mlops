@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BTC Price Predictor</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <h1>BTC Price Predictor</h1>
+    <button id="predict-btn">Get Predicted Price</button>
+    <p id="result"></p>
+
+    <script>
+        $(document).ready(function(){
+            $('#predict-btn').click(function(){
+                $.ajax({
+                    url: '/predict',
+                    method: 'GET',
+                    success: function(response) {
+                        $('#result').text('Predicted BTC Price: ' + response.predicted_price);
+                    },
+                    error: function(error) {
+                        console.log(error);
+                        alert('An error occurred');
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
