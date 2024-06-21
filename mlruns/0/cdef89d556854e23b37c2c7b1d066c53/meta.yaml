@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Francesco%20Corda/Documents/GitHub/project-mlops/mlruns/0/cdef89d556854e23b37c2c7b1d066c53/artifacts
+end_time: 1718866631579
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cdef89d556854e23b37c2c7b1d066c53
+run_name: tasteful-hare-447
+run_uuid: cdef89d556854e23b37c2c7b1d066c53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718866626643
+status: 3
+tags: []
+user_id: Francesco Corda
